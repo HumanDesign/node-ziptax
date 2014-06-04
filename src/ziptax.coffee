@@ -1,5 +1,5 @@
 module.exports = class ZipTax
-
+	
 	constructor : (@apiKey, @zip, @apiVersion, @format) ->
 		@format = @format ? 'json'
 		@version = @apiVersion ? 'v20'
