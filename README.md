@@ -1,6 +1,5 @@
 # Node.js Library for Zip Tax
-### http://zip-tax.com
-
+### Zip Tax allows you to look up sales tax by zip code http://zip-tax.com
 <a href="https://nodei.co/npm/ziptax/"><img src="https://nodei.co/npm/ziptax.png?downloads=true"></a>
 
 ## Download
