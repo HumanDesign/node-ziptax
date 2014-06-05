@@ -4,9 +4,9 @@
   "main": "lib/ziptax",
   "author": {
     "name": "Matt Null",
-    "email" : "matt@beinghuman.is"
+    "email": "matt@beinghuman.is"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/HumanDesign/node-ziptax.git"
@@ -19,5 +19,8 @@
     "gulp-coffee": "^1.4.3",
     "gulp-plumber": "^0.6.2",
     "gulp-util": "^2.2.16"
+  },
+  "dependencies": {
+    "request": "^2.36.0"
   }
 }
