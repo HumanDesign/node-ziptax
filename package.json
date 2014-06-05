@@ -1,12 +1,12 @@
 {
   "name": "ziptax",
-  "description": "",
+  "description": "Node.js Library for Zip Tax",
   "main": "lib/ziptax",
   "author": {
     "name": "Matt Null",
     "email" : "matt@beinghuman.is"
   },
-  "version": "0.0.1",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/HumanDesign/node-ziptax.git"
