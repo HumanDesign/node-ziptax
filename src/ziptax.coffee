@@ -2,7 +2,7 @@ request = require 'request'
 
 module.exports = class ZipTax
 
-	constructor : (@apiKey, @zip, @apiVersion, @format) ->
+	constructor : (@apiKey, @apiVersion, @format) ->
 		@format = @format ? 'json'
 		@version = @apiVersion ? 'v20'
 		@URI = "http://api.zip-tax.com/request/#{@version}?key=#{apiKey}&format=#{@format}&"
