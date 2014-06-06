@@ -11,4 +11,4 @@ module.exports = class ZipTax
 		cb = cb ? () ->
 		request.get @URI + 'postalcode='+zip, (err, response, body) ->
 			data = if err then {error : err} else JSON.parse(body)
-			cb(data)
+			cb(err, data)
