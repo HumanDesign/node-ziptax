@@ -22,5 +22,13 @@
   },
   "dependencies": {
     "request": "^2.36.0"
-  }
+  },
+  "keywords": [
+    "tax",
+    "taxes",
+    "sales",
+    "zip",
+    "location",
+    "salestax"
+  ]
 }
